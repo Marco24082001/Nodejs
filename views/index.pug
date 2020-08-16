@@ -1,0 +1,11 @@
+extend ./layouts/common
+
+block content
+    table.table
+        tr
+            th(scope='col') #
+            th(scope='col') First
+            th(scope='col') Last
+            th(scope='col') Handle
+        h1 Hello #{name}
+        a(href="/users") User List

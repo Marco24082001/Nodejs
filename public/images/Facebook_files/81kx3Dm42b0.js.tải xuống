@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["6ianc"]); }
+
+__d("MWUIPresenceIsThreadActive.bs",["requireCond","cr:1470398"],(function(a,b,c,d,e,f){"use strict";a=b("cr:1470398").useHook;f.useHook=a}),null);
+__d("MWChatConfirmTabCloseDialog.bs",["fbt"],(function(a,b,c,d,e,f,g){"use strict";a={body:g._("B\u1ea1n c\u00f3 ch\u1eafc b\u1ea1n mu\u1ed1n \u0111\u00f3ng c\u1eeda s\u1ed5 chat n\u00e0y kh\u00f4ng?"),confirm:g._("OK"),title:g._("B\u1ea1n ch\u01b0a g\u1eedi tin nh\u1eafn c\u1ee7a m\u00ecnh.")};f.content=a}),null);
+__d("MWChatReactionEmoji.bs",["requireCond","cr:1579294"],(function(a,b,c,d,e,f){"use strict";a=b("cr:1579294").make;f.$ChatGeminiReactionImage$OR$CometEmoji$requireCond=b("cr:1579294");f.make=a}),null);
+__d("CometEmoji.bs",["CometEmoji.react"],(function(a,b,c,d,e,f){"use strict";a=b("CometEmoji.react");f.make=a}),null);
